@@ -2,6 +2,3 @@
 
 I`m a Software Developer dedicated to solving real-world problems with coffee, passion and code. I’m always learning and evolving, 
 building reliable applications that make an impact while exploring new ideas and contributing to the community.
-
-#### Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=dotnet,cs,cpp,js,linux,vscode,docker,git,visualstudio&theme=light)](https://skillicons.dev)
