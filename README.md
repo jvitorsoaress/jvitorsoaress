@@ -6,7 +6,7 @@ building reliable applications that make an impact while exploring new ideas and
 <br><br>
 <sup>
   <img src="https://user-images.githubusercontent.com/74038190/226127913-88de86d3-8437-45b9-a3b6-e746b47f655a.gif" width="40px"> 
-  *Psst... If you’ve made it this far, why not hit that follow button or drop me any message?
+  <code>*Psst... If you’ve made it this far, why not hit that follow button or drop me any message?</code>
 </sup>
 <br><br>
 👇 You can find some of my projects and contributions bellow:
